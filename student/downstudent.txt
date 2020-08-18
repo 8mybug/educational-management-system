@@ -1,0 +1,9 @@
+x w 111111
+r w 222222
+r w 222222
+wang w 300000
+wang w 300005
+wang m 300002
+wang w 300006
+wang m 300008
+laomao w 300011
